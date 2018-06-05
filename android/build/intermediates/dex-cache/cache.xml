@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_02aae90c7484f5823e7c93c6f8e4b602933df60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_aabfe877e6218a480f2112b8f60bb5b9b29464b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_99fa70a1a98ff6d7c65def47ffafebca40869e65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f4def4d2734e3f6b017815235444fc7e9eab3739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="32144817b13aa04e560dad1d1b52c420e4f9d5ca">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.1_fbebdd2e9cd636eddefb8b024e5feef6a0ec2a76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7cabe07cfd1c2b40677b26741c2d5850b325d1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_dad65bac5f187589177e044fe635e93315c74ef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_c5e21f901599164d24478624099502ca910df53d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e744d3cdb2249d727a95401c8e40b968889270e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_12265f70ffa82eb6a54f05c5a202e6b4b08c6be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_1edad792bb585ae594508a24c1b80d2b3db0938d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_5446d9cc6251d90ffcf41601d415a244a64ff5eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_e46fd50d89646d1a169c459d9f283823c6ad3b30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ad84838ea8829116439fbf6e5ec6b0cf25d460d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_85c95dfe4e6a5fb37e7d180545daa9a3c5dc1424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_a16ce7dbb1a4012586f79150959c424f5f574ffc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_98be63b20db8b1c40c376cd32faa8f6f47bd0284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_d6cf92b66796d9c6441e9eb82ebb19a22d8a5d92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_525096dc09a306d3685978112b7a1c85b65c5d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_a5d56af7a5f4361d85db71e45536a41a50341f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/zolaya/react-native-config/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45586990f4e58db6e2dcad1eeb38f0179ba6b06d">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/zolaya-react-native-config-unspecified_13be777479b5074cc8719216a138e94a4eca2f39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6f520401c89f15d126ed7399831e9035a1f14646.jar" />
+    </item>
+
+</items>
