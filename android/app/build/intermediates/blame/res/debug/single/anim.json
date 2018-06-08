@@ -1,66 +1,66 @@
 [
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_out.xml"
+        "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_enter.xml"
+        "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/anim/catalyst_push_up_out.xml"
+        "source": "/Users/luckycharm/.android/build-cache/e78464765e830d2eb0fe5e59fda05efb536fe7f1/output/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/anim/catalyst_fade_in.xml"
+        "source": "/Users/luckycharm/.android/build-cache/e78464765e830d2eb0fe5e59fda05efb536fe7f1/output/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_top.xml"
+        "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_top.xml"
+        "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_exit.xml"
+        "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/anim/catalyst_slide_up.xml"
+        "source": "/Users/luckycharm/.android/build-cache/e78464765e830d2eb0fe5e59fda05efb536fe7f1/output/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/anim/catalyst_slide_down.xml"
+        "source": "/Users/luckycharm/.android/build-cache/e78464765e830d2eb0fe5e59fda05efb536fe7f1/output/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_bottom.xml"
+        "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/anim/catalyst_push_up_in.xml"
+        "source": "/Users/luckycharm/.android/build-cache/e78464765e830d2eb0fe5e59fda05efb536fe7f1/output/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_bottom.xml"
+        "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.1/res/anim/catalyst_fade_out.xml"
+        "source": "/Users/luckycharm/.android/build-cache/e78464765e830d2eb0fe5e59fda05efb536fe7f1/output/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_in.xml"
+        "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/anim/abc_fade_in.xml"
     }
 ]

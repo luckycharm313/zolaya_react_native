@@ -1,4 +1,4 @@
-#Tue Jun 05 11:54:39 PDT 2018
+#Fri Jun 08 18:18:59 CST 2018
 base.0=/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

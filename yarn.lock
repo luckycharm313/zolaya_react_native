@@ -7627,6 +7627,13 @@ react-modal@^3.3.2:
     react-lifecycles-compat "^3.0.0"
     warning "^3.0.0"
 
+react-native-camera@^1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/react-native-camera/-/react-native-camera-1.1.4.tgz#5a01be906507cc2f232405f903c52c9d99988dba"
+  dependencies:
+    lodash "^4.17.4"
+    prop-types "^15.5.10"
+
 react-native-compat@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/react-native-compat/-/react-native-compat-1.0.0.tgz#491dbd8a0105ac061b8d0d926463ce6a3dff33bc"
@@ -7661,6 +7668,10 @@ react-native-iphone-x-helper@^1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/react-native-iphone-x-helper/-/react-native-iphone-x-helper-1.0.3.tgz#7a2f1e0574e899a0f1d426e6167fd98990083214"
 
+react-native-open-maps@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-open-maps/-/react-native-open-maps-0.2.0.tgz#ae96cb8edbbe52886d6a2bd5f2cc8c0386cd72b2"
+
 react-native-safe-area-view@^0.7.0:
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/react-native-safe-area-view/-/react-native-safe-area-view-0.7.0.tgz#38f5ab9368d6ef9e5d18ab64212938af3ec39421"
@@ -7672,6 +7683,14 @@ react-native-safe-area-view@^0.7.0:
   resolved "https://codeload.github.com/react-navigation/react-native-tab-view/tar.gz/36ebd834d78b841fc19778c966465d02fd1213bb"
   dependencies:
     prop-types "^15.6.0"
+
+react-native-vector-icons@^4.6.0:
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/react-native-vector-icons/-/react-native-vector-icons-4.6.0.tgz#e4014311ffa6de397d914ffc31b7097a874cc8d5"
+  dependencies:
+    lodash "^4.0.0"
+    prop-types "^15.5.10"
+    yargs "^8.0.2"
 
 react-native@0.55.1:
   version "0.55.1"

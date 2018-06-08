@@ -1,8 +1,9 @@
 import React, { Component } from 'react'
-import { View, Text, Easing, ImageBackground, Image } from 'react-native'
+import { View, Text, Easing, ImageBackground, Image, TouchableOpacity } from 'react-native'
 import { connect } from 'react-redux'
 
 import Drawer from 'react-native-drawer-menu';
+// import Camera from 'react-native-camera';
 
 import NavBar from '../Components/NavBar'
 import NavMenu from '../Components/NavMenu'
@@ -25,6 +26,11 @@ class MainScreen extends Component {
   onSelectMenu = () => {
     this.refs.menu.openLeftDrawer();
   }
+  // takePicture = () => {
+  //   this.camera.capture()
+  //      .then((data) => console.log(data))
+  //      .catch(err => console.error(err));
+  // }
 
   render () {
     return (      
@@ -64,18 +70,28 @@ class MainScreen extends Component {
           <View style={styles.mainBodyItem}>
             <Text style = {styles.item_md}>YOUR FAVORITE CHARITY IS</Text>
             <View style={styles.item_component}>
-            <MainItem img = {Images.child_hospital}/>
+              <MainItem nav = {this.props.navigation} img = {Images.child_hospital} nextPage={'community'}/>
             </View>
           </View>
           <View style={styles.mainBodyItem}>
           <Text style = {styles.item_md}>MERCHANTS</Text>
             <View style={styles.item_component}>
-              <MainItem img = {Images.coco_logo}/>
+              <MainItem nav = {this.props.navigation} img = {Images.coco_logo}  nextPage={'merchant'}/>
             </View>
           </View>
         </View>
         <View style={styles.mainFooter}>
-          <Image source = {Images.camera} style = {styles.camera} resizeMode='contain'/>
+          {/* <Camera
+            ref={(cam) => {
+                this.camera = cam;
+              }}
+              style={styles.preview}
+              aspect={Camera.constants.Aspect.fill}>
+                <TouchableOpacity onPress={this.takePicture.bind(this)}>
+                </TouchableOpacity>             
+          </Camera> */}
+                  <Image source = {Images.camera} style = {styles.camera} resizeMode='contain'/>
+          
         </View>
       </Drawer>
     )

@@ -26,7 +26,7 @@ export default StyleSheet.create({
   headerView_lg : {
     fontSize        : Fonts.size.lg,
     fontWeight      : '500',
-    fontFamily      : 'LibreBaskerville-Regular',
+    // fontFamily      : 'LibreBaskerville-Regular',
     color: '#ffffff'
   },
   headerView_md : {

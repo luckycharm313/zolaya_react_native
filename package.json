@@ -33,8 +33,11 @@
     "ramda": "^0.25.0",
     "react": "16.3.1",
     "react-native": "0.55.1",
+    "react-native-camera": "^1.1.4",
     "react-native-config": "^0.10.0",
     "react-native-drawer-menu": "^0.2.5",
+    "react-native-open-maps": "^0.2.0",
+    "react-native-vector-icons": "^4.6.0",
     "react-navigation": "^1.5.11",
     "react-navigation-redux-helpers": "^1.0.4",
     "react-redux": "^5.0.6",
@@ -87,11 +90,6 @@
       "<rootDir>/Tests/Setup"
     ],
     "preset": "react-native"
-  },
-  "rnpm": {
-    "assets": [
-         "./assets/fonts/"
-    ]
   },
   "config": {},
   "standard": {

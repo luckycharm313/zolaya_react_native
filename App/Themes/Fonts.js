@@ -17,7 +17,8 @@ const size = {
   regular: 17,
   medium: 14,
   small: 12,
-  tiny: 8.5
+  tiny: 10,
+  smalltiny: 8.5
 }
 
 const style = {
