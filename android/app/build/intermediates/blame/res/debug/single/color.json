@@ -16,6 +16,10 @@
         "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
+        "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/luckycharm/.android/build-cache/24b2536801f3e2cdde77a75c8c9c8d3fff085d8a/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
         "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/color/abc_secondary_text_material_dark.xml"
     },
@@ -24,8 +28,16 @@
         "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/color/switch_thumb_material_light.xml"
     },
     {
+        "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/luckycharm/.android/build-cache/24b2536801f3e2cdde77a75c8c9c8d3fff085d8a/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
         "source": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/luckycharm/.android/build-cache/24b2536801f3e2cdde77a75c8c9c8d3fff085d8a/output/res/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",

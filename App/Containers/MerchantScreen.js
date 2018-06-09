@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { ScrollView, Text, TextInput, Image, View, FlatList, TouchableOpacity} from 'react-native'
+import { ScrollView, Text, TextInput, Image, View, FlatList, TouchableOpacity, ListView} from 'react-native'
 import { connect } from 'react-redux'
 import Icon from 'react-native-vector-icons/MaterialIcons'
 // Styles
@@ -8,6 +8,7 @@ import { Metrics, ApplicationStyles, Colors, Fonts, Images } from '../Themes/'
 import MerchantItem from '../Components/MerchantItem'
 
 class MerchantScreen extends Component {
+  _keyExtractor = (item, index) => item.id;
   constructor(props) {
     super(props);
     this.state = {
@@ -59,6 +60,7 @@ class MerchantScreen extends Component {
   _renderItem = ({item}) => (
     <TouchableOpacity onPress={() => { this.props.navigation.navigate('MerchantDatailScreen')}}>
       <MerchantItem
+        id = {item.id}
         data = {item}
       />
     </TouchableOpacity>
@@ -107,7 +109,7 @@ class MerchantScreen extends Component {
           <FlatList
             data={this.state.data}
             // extraData={this.state}
-            // keyExtractor={this._keyExtractor}
+            keyExtractor={this._keyExtractor}
             renderItem={this._renderItem}
           />
         </View>

@@ -2,5 +2,9 @@
     {
         "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/luckycharm/.android/build-cache/e78464765e830d2eb0fe5e59fda05efb536fe7f1/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/res/xml/provider_paths.xml"
     }
 ]

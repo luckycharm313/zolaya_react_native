@@ -4,6 +4,7 @@ import { connect } from 'react-redux'
 
 import Drawer from 'react-native-drawer-menu';
 // import Camera from 'react-native-camera';
+import ImagePicker  from 'react-native-image-picker';
 
 import NavBar from '../Components/NavBar'
 import NavMenu from '../Components/NavMenu'
@@ -22,15 +23,27 @@ var customStyles = {
   main: {} // style of main board
 };
 
+var options = {
+  title: 'Select Avatar',
+  customButtons: [
+    {name: 'fb', title: 'Choose Photo from Facebook'},
+  ],
+  storageOptions: {
+    skipBackup: true,
+    path: 'images'
+  }
+};
+
 class MainScreen extends Component {
   onSelectMenu = () => {
     this.refs.menu.openLeftDrawer();
   }
-  // takePicture = () => {
-  //   this.camera.capture()
-  //      .then((data) => console.log(data))
-  //      .catch(err => console.error(err));
-  // }
+  
+  takePicture = () => {
+    ImagePicker.launchCamera(options, (response)  => {
+      // Same code as in above section!
+    });
+  }
 
   render () {
     return (      
@@ -80,18 +93,10 @@ class MainScreen extends Component {
             </View>
           </View>
         </View>
-        <View style={styles.mainFooter}>
-          {/* <Camera
-            ref={(cam) => {
-                this.camera = cam;
-              }}
-              style={styles.preview}
-              aspect={Camera.constants.Aspect.fill}>
-                <TouchableOpacity onPress={this.takePicture.bind(this)}>
-                </TouchableOpacity>             
-          </Camera> */}
-                  <Image source = {Images.camera} style = {styles.camera} resizeMode='contain'/>
-          
+        <View style={styles.mainFooter}>        
+          <TouchableOpacity onPress={this.takePicture.bind(this)}>
+            <Image source = {Images.camera} style = {styles.camera} resizeMode='contain'/>
+          </TouchableOpacity>
         </View>
       </Drawer>
     )

@@ -44,6 +44,7 @@ ADDED from /Volumes/Work/Projects/zolaya/source/android/app/src/main/AndroidMani
 		ADDED from /Volumes/Work/Projects/zolaya/source/android/app/src/main/AndroidManifest.xml:10:22-62
 application
 ADDED from /Volumes/Work/Projects/zolaya/source/android/app/src/main/AndroidManifest.xml:12:5-30:19
+MERGED from [zolaya:react-native-image-picker:unspecified] /Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-21:19
 MERGED from [com.facebook.react:react-native:0.55.1] /Users/luckycharm/.android/build-cache/e78464765e830d2eb0fe5e59fda05efb536fe7f1/output/AndroidManifest.xml:13:5-20
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.1] /Users/luckycharm/.android/build-cache/a485bdf031137a9b020e2b08675fdaad71caa491/output/AndroidManifest.xml:22:5-20
@@ -87,6 +88,7 @@ ADDED from /Volumes/Work/Projects/zolaya/source/android/app/src/main/AndroidMani
 		ADDED from /Volumes/Work/Projects/zolaya/source/android/app/src/main/AndroidManifest.xml:29:17-81
 uses-sdk
 INJECTED from /Volumes/Work/Projects/zolaya/source/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [zolaya:react-native-image-picker:unspecified] /Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
 MERGED from [zolaya:react-native-vector-icons:unspecified] /Volumes/Work/Projects/zolaya/source/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
 MERGED from [zolaya:react-native-config:unspecified] /Volumes/Work/Projects/zolaya/source/node_modules/react-native-config/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.1] /Users/luckycharm/.android/build-cache/e78464765e830d2eb0fe5e59fda05efb536fe7f1/output/AndroidManifest.xml:7:5-9:41
@@ -106,5 +108,21 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/luckycharm/.android/bu
 	android:minSdkVersion
 		INJECTED from /Volumes/Work/Projects/zolaya/source/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Volumes/Work/Projects/zolaya/source/android/app/src/main/AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [zolaya:react-native-image-picker:unspecified] /Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [zolaya:react-native-image-picker:unspecified] /Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:14:13-60
+	android:grantUriPermissions
+		ADDED from [zolaya:react-native-image-picker:unspecified] /Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [zolaya:react-native-image-picker:unspecified] /Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [zolaya:react-native-image-picker:unspecified] /Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [zolaya:react-native-image-picker:unspecified] /Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [zolaya:react-native-image-picker:unspecified] /Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [zolaya:react-native-image-picker:unspecified] /Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:18:17-67
 uses-permission#android.permission.READ_PHONE_STATE
 IMPLIED from /Volumes/Work/Projects/zolaya/source/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4

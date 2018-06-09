@@ -57,12 +57,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/luckycharm/.android/build-cache/a485bdf031137a9b020e2b08675fdaad71caa491/output/jars/classes.jar"
+        jar="/Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/classes_ea3b419ee6f372f7a7516e568b9f8883bf9b49c8.jar" />
+        sha1="ed80840d302bee1f5dd42cefa1fa8e6100100535">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/classes_5e23a74d043be28909af9d232e555017eb191d1d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -219,15 +219,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/luckycharm/.android/build-cache/a485bdf031137a9b020e2b08675fdaad71caa491/output/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_a99778c0c4b252d93d3aaefabc272d10993c60bf.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
         jumboMode="false"
         optimize="true"
@@ -243,24 +234,6 @@
         revision="26.0.2"
         sha1="32144817b13aa04e560dad1d1b52c420e4f9d5ca">
         <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/classes_9e2210388b83f4f68258891699633d36b83b1947.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/luckycharm/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_85c95dfe4e6a5fb37e7d180545daa9a3c5dc1424.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/luckycharm/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_85c95dfe4e6a5fb37e7d180545daa9a3c5dc1424.jar" />
     </item>
     <item
         is-multidex="false"
