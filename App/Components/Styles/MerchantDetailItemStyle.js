@@ -42,24 +42,26 @@ export default StyleSheet.create({
   },
   
   btn_group : {
+    flex: 1,
     flexDirection   : 'row',
     marginTop: 10, 
-    justifyContent: 'space-between'
+    justifyContent: 'space-between',    
   },
-  btn_view :{
-    
-  },
-  btn : {
-    textAlign: 'center',
-    textAlignVertical: "center",
-    width: 170,
+  
+  btn_item: {
+    width: (Metrics.screenWidth-50)/2,
     height : 40,
+    backgroundColor : Colors.greenColor,
+    alignItems      : 'center',
+    justifyContent: 'center',  
+    borderRadius    : 5,
+  },
+
+  btn : {
     fontSize        : Fonts.size.medium,
     fontFamily      : Fonts.type.base,
     fontWeight      : '500',
-    borderRadius    : 5,
     color : '#fff',
-    backgroundColor : Colors.greenColor,
   },
 
 })

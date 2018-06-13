@@ -40,13 +40,19 @@ class MainScreen extends Component {
   }
   
   takePicture = () => {
+    
     ImagePicker.launchCamera(options, (response)  => {
-      // Same code as in above section!
+      
     });
   }
 
+  _gotoRedeem = () => {
+    this.props.navigation.navigate('RedeemScreen');
+  }
+
   render () {
-    return (      
+    return (
+      <View style={styles.mainContainer}>      
         <Drawer
           ref = {'menu'}
           style={styles.container}
@@ -76,9 +82,9 @@ class MainScreen extends Component {
         <View style={styles.mainBody}>
           <View style={styles.mainBodyItem}>
             <Text style = {styles.item_md}>REDEEM</Text>
-            <View style={styles.item_component_redeem}>
+            <TouchableOpacity style={styles.item_component_redeem} onPress={this._gotoRedeem}>
               <Image source = {Images.amazon_giftcard} style = {styles.redeem_logo} resizeMode='contain'/>      
-            </View>
+            </TouchableOpacity>
           </View>
           <View style={styles.mainBodyItem}>
             <Text style = {styles.item_md}>YOUR FAVORITE CHARITY IS</Text>
@@ -99,6 +105,7 @@ class MainScreen extends Component {
           </TouchableOpacity>
         </View>
       </Drawer>
+      </View>
     )
   }
 }

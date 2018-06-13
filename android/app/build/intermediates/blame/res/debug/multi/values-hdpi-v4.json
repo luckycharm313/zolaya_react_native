@@ -12,14 +12,14 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/values-hdpi/values-hdpi.xml",
+                    "file": "/Users/luckycharm/.android/build-cache/1cb089698c9edaed21fe6f24604239f0c9ccc637/output/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 286,
-                        "endLine": 8,
+                        "startOffset": 55,
+                        "endLine": 6,
                         "endColumn": 13,
-                        "endOffset": 558
+                        "endOffset": 327
                     }
                 }
             }

@@ -20,17 +20,6 @@ export default class MerchantDetailItem extends Component {
     Linking.openURL('tel:5551231234');
   }
 
-  // navigate = (url) => { // E
-  //   const { navigate } = this.props.navigation;
-  //   const route = url.replace(/.*?:\/\//g, '');
-  //   const id = route.match(/\/([^\/]+)\/?$/)[1];
-  //   const routeName = route.split('/')[0];
-  
-  //   if (routeName === 'people') {
-  //     navigate('People', { id, name: 'chris' })
-  //   };
-  // }
-
   handleOpenURL = (event) => { // D
     this.props.nav.navigate(event.url);
   }
@@ -46,12 +35,12 @@ export default class MerchantDetailItem extends Component {
           <Text style = {styles.text_lg_blue} >{percent} %</Text>
         </View>
         <View style = { styles.btn_group}>
-          <TouchableOpacity onPress = {this._onClickMap}>
-            <Text style = {styles.btn} >Map</Text>
+          <TouchableOpacity style = { styles.btn_item} onPress = {this._onClickMap}>
+              <Text style = {styles.btn} >Map</Text>
           </TouchableOpacity>
-          <TouchableOpacity onPress = {this._onClickCall}>
-            <Text style = {styles.btn} >Call</Text>
-          </TouchableOpacity> 
+          <TouchableOpacity style = { styles.btn_item} onPress = {this._onClickCall}>
+              <Text style = {styles.btn} >Call</Text>            
+          </TouchableOpacity>
         </View>
       </View>
     )

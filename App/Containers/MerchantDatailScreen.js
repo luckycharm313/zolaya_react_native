@@ -61,48 +61,49 @@ class MerchantDatailScreen extends Component {
     const logo = Images.child_hospital;
     const title = 'Ronald McDonald House Montreal';
     return (
-      <View style={styles.container}>
-        <View style = { styles.headerbar}>
-          <View style={styles.merchant}>
-            <TouchableOpacity onPress = {this._goBack}>
-              <Icon name="arrow-back" style = {styles.search_back}/>
-            </TouchableOpacity>
-            <Image source = {logo} style = {styles.logo} resizeMode='contain'/>
-            <Text style = {styles.title} >{title}</Text>
+      <View style={styles.mainContainer}> 
+        <View style={styles.container}>
+          <View style = { styles.headerbar}>
+            <View style={styles.merchant}>
+              <TouchableOpacity onPress = {this._goBack}>
+                <Icon name="arrow-back" style = {styles.search_back}/>
+              </TouchableOpacity>
+              <Image source = {logo} style = {styles.logo} resizeMode='contain'/>
+              <Text style = {styles.title} >{title}</Text>
+            </View>
           </View>
-        </View>
-        <View style={styles.merchant_view}>
-          
-          <View style = { styles.searchBar}>
-            <Icon name="search" style = {styles.search_icon}/>
-            <TextInput
-                ref = {'search'}
-                name = {'search' }
-                type = {'TextInput'}
-                underlineColorAndroid = {Colors.greenColor}
-                autoCapitalize = {'none'}
-                autoCorrect = {false}
-                placeholder = {'search branches...'}
-                placeholderTextColor = {Colors.textHintColor}
-                style = {styles.search_text }
-                returnKeyType = 'go'
-                selectionColor = {Colors.textHintColor}
-                onChangeText = {(searchKey) => { this.setState({searchText: searchKey})}}
-                onChange = {this._search}
-                maxLength = {100}/>
-              {this.state.isSearchCancel && 
-              <TouchableOpacity onPress = {this._cancel}>
-                <Icon name="close" style = {styles.close_icon}/>
-              </TouchableOpacity>}            
-          </View>
+          <View style={styles.merchant_view}>
+            
+            <View style = { styles.searchBar}>
+              <Icon name="search" style = {styles.search_icon}/>
+              <TextInput
+                  ref = {'search'}
+                  name = {'search' }
+                  type = {'TextInput'}
+                  underlineColorAndroid = {Colors.greenColor}
+                  autoCapitalize = {'none'}
+                  autoCorrect = {false}
+                  placeholder = {'search branches...'}
+                  placeholderTextColor = {Colors.textHintColor}
+                  style = {styles.search_text }
+                  returnKeyType = 'go'
+                  selectionColor = {Colors.textHintColor}
+                  onChangeText = {(searchKey) => { this.setState({searchText: searchKey})}}
+                  onChange = {this._search}
+                  maxLength = {100}/>
+                {this.state.isSearchCancel && 
+                <TouchableOpacity onPress = {this._cancel}>
+                  <Icon name="close" style = {styles.close_icon}/>
+                </TouchableOpacity>}            
+            </View>
 
-          <View style = { styles.detail}>
-            <FlatList
-              data={this.state.data}
-              renderItem={this._renderItem}
-            />            
+            <View style = { styles.detail}>
+              <FlatList
+                data={this.state.data}
+                renderItem={this._renderItem}
+              />            
+            </View>
           </View>
-
         </View>
       </View>
     )

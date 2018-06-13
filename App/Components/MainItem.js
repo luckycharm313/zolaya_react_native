@@ -21,13 +21,13 @@ export default class MainItem extends Component {
   render () {
     
     return (
-      <View style={styles.container}>
+      <TouchableOpacity style={styles.container} onPress = {this._goNext}>
         <View style = {styles.next} />      
         <Image source = {this.props.img} style = {styles.left} resizeMode='contain'/>
-        <TouchableOpacity onPress = {this._goNext}>
+        <View style = {styles.next_view}>
           <Image source = {Images.next} style = {styles.next} resizeMode='contain'/>      
-        </TouchableOpacity>         
-      </View>
+        </View>         
+      </TouchableOpacity>
     )
   }
 }

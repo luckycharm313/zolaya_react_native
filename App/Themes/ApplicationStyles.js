@@ -1,7 +1,7 @@
 import Fonts from './Fonts'
 import Metrics from './Metrics'
 import Colors from './Colors'
-
+import { Platform } from 'react-native'
 // This file is for a reusable grouping of Theme items.
 // Similar to an XML fragment layout in Android
 
@@ -9,10 +9,11 @@ const ApplicationStyles = {
   screen: {
     mainContainer: {
       flex: 1,
-      // backgroundColor: Colors.transparent
+      paddingTop: Platform.OS=='ios' ? 20: 0,
+      backgroundColor: Colors.background1
     },
     container: {
-      flex: 1,
+      flex: 1,      
       // backgroundColor: Colors.transparent
     },
   }

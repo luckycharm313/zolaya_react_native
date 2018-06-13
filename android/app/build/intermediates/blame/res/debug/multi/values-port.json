@@ -11,13 +11,13 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/res/values-port/values-port.xml",
+                    "file": "/Users/luckycharm/.android/build-cache/1cb089698c9edaed21fe6f24604239f0c9ccc637/output/res/values-port/values-port.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 280,
+                        "startOffset": 55,
                         "endColumn": 55,
-                        "endOffset": 331
+                        "endOffset": 106
                     }
                 }
             }

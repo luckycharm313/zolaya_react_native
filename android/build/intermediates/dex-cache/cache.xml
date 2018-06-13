@@ -12,21 +12,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/Work/Projects/zolaya/source/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jar="/Users/luckycharm/.android/build-cache/e78464765e830d2eb0fe5e59fda05efb536fe7f1/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/classes_5f499ad12219577dea4e2b07a1b25906964b2026.jar" />
+        revision="27.0.3"
+        sha1="32144817b13aa04e560dad1d1b52c420e4f9d5ca">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_9e2210388b83f4f68258891699633d36b83b1947.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f4def4d2734e3f6b017815235444fc7e9eab3739.jar" />
+        revision="27.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/okio-1.13.0_02aae90c7484f5823e7c93c6f8e4b602933df60b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,12 +39,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e744d3cdb2249d727a95401c8e40b968889270e3.jar" />
+        revision="27.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_1edad792bb585ae594508a24c1b80d2b3db0938d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,6 +57,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_f4def4d2734e3f6b017815235444fc7e9eab3739.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -66,12 +75,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/luckycharm/.android/build-cache/2bcd2b969de544fb08e388f7c314a7357f0222f2/output/jars/classes.jar"
+        jar="/Users/luckycharm/.android/build-cache/945d3c39d98bf0765aca1194a606465d9b3a9e5f/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/classes_081e251bd35aa03e578cdae7511be1089483a62b.jar" />
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_4e5584863d44ac75bda6c4f5922734a75d6d1703.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,39 +93,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_1edad792bb585ae594508a24c1b80d2b3db0938d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
+        revision="27.0.3"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e744d3cdb2249d727a95401c8e40b968889270e3.jar" />
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_e744d3cdb2249d727a95401c8e40b968889270e3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/luckycharm/.android/build-cache/252ec8737b5cd6f5d307db819fba800a2745b869/output/jars/classes.jar"
+        jar="/Users/luckycharm/.android/build-cache/5fe62ea0a0934a3add0531b01ee317ba7cd885a1/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/classes_7565475dc45c59fd975ff3cd8ce7f527b0374cc4.jar" />
+        revision="27.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_109992bae32edc4b3c72abe0f326872c4002a363.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/Work/Projects/zolaya/source/node_modules/react-native-config/android/build/intermediates/bundles/default/classes.jar"
+        jar="/Users/luckycharm/.android/build-cache/a8976e07cac594743dc7f505207606ef3a74472c/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="45586990f4e58db6e2dcad1eeb38f0179ba6b06d">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/classes_90044a57c42ff927d57b5acbf14471e4e7239692.jar" />
+        revision="27.0.3"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_a2336865ca259849b855bb1cd39f2deab3422b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/94dcb76018e3f3cdee6e46c05b1bc906cc48b1bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_b6d50fb5fadfd7635a1c03b636dbad1e5062efd5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -147,12 +156,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/luckycharm/.android/build-cache/a8ec745d33b2ee06d94dc8336bc9dd38cb45631c/output/jars/classes.jar"
+        jar="/Users/luckycharm/.android/build-cache/1cb089698c9edaed21fe6f24604239f0c9ccc637/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/classes_505c255efc0f979a3c021d751a698ba4c14d8a3b.jar" />
+        revision="27.0.3"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_0640e3d048e3bad7dac6ba76df10c293442f5fef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/common-1.1.0_069eeab470de10a796eb79a40931f2a24838246a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -183,12 +201,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jar="/Users/luckycharm/.android/build-cache/8e6eb4b6c78c6c59dfe9b33f893a04cfeda9c131/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_02aae90c7484f5823e7c93c6f8e4b602933df60b.jar" />
+        revision="27.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_9cf32eb47bc5852c592f51287ca9ad4f9846639c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_525096dc09a306d3685978112b7a1c85b65c5d44.jar" />
     </item>
     <item
         is-multidex="false"
@@ -201,6 +228,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_5f499ad12219577dea4e2b07a1b25906964b2026.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
@@ -210,12 +246,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jar="/Users/luckycharm/.android/build-cache/e78464765e830d2eb0fe5e59fda05efb536fe7f1/output/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7cabe07cfd1c2b40677b26741c2d5850b325d1f5.jar" />
+        revision="27.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_1106d34304abe4d26a2831b8f31ee9505aebff08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/4a39b4a4a0a6bdf6f29b715a44b83408639f0ff4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_5fa23c6b05baa4577a639a0a524df0322922fdc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/01feba742156c563c314a0416596cff069295709/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_af045beb5e44e4680a32b56bbff59258bcf3063b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/8cf82b67a37bc5613de7d07f38b38080809c201e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_fd70fe4937584d61198760caf8edb8481ec64637.jar" />
     </item>
     <item
         is-multidex="false"
@@ -237,12 +300,48 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jar="/Users/luckycharm/.android/build-cache/7edeedffe09eeabd1fac1aa924fb4f236075e6a8/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7cabe07cfd1c2b40677b26741c2d5850b325d1f5.jar" />
+        revision="27.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_5c1f92a8f4679b30deb3a84783333de99e37f8dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.6.0_98be63b20db8b1c40c376cd32faa8f6f47bd0284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/eddbf7f3d6ebec2733b8d8441268f8f481021f21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_9ae4d75357da879058375609df474d05f7f323e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/09ecc72b8362ab47bc7dcdcc3796ed06545e897c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_20ea25fe0287d76775dfdc6ada24404758b57643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/common-1.1.0_cf6d142b08281fd7f476dfc57ff756688b7ae9fb.jar" />
     </item>
     <item
         is-multidex="false"
@@ -252,6 +351,204 @@
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
         <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_525096dc09a306d3685978112b7a1c85b65c5d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/node_modules/react-native-config/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45586990f4e58db6e2dcad1eeb38f0179ba6b06d">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_90044a57c42ff927d57b5acbf14471e4e7239692.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/d928c19c696f6f205b794f8d49a8a9a4f9ec577b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_1c0e6045f661902fb13f49d2911a9e56cbd6775e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/classes_5f499ad12219577dea4e2b07a1b25906964b2026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f4def4d2734e3f6b017815235444fc7e9eab3739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e744d3cdb2249d727a95401c8e40b968889270e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/bc401b8e317d95b5b52bbe02056fdf39d30be619/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_cbdd6b3088fc2fe8d1b999b1ec2dfb02b3977721.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/2bcd2b969de544fb08e388f7c314a7357f0222f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/classes_081e251bd35aa03e578cdae7511be1089483a62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_1edad792bb585ae594508a24c1b80d2b3db0938d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/3c8fc8b878a8689e682213c376170f7e59f75e3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_f0cab3ad7f106ac7ab93e3ca035339e45782db54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/2bcd2b969de544fb08e388f7c314a7357f0222f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_081e251bd35aa03e578cdae7511be1089483a62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e744d3cdb2249d727a95401c8e40b968889270e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/node_modules/react-native-config/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45586990f4e58db6e2dcad1eeb38f0179ba6b06d">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/classes_90044a57c42ff927d57b5acbf14471e4e7239692.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/a8ec745d33b2ee06d94dc8336bc9dd38cb45631c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/classes_505c255efc0f979a3c021d751a698ba4c14d8a3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/5cbd0af84260221c007d2f982c7f0c39030c1c5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_11f4fb28b036894fb3d65a1f37ab90b9211ed478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_02aae90c7484f5823e7c93c6f8e4b602933df60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/5df120691c50ecad6479f686dfc61bdae9211431/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_1bc7f9d5aba11ba3f02d334a15add96e0d62613a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7cabe07cfd1c2b40677b26741c2d5850b325d1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/support-annotations-27.1.1_e8062ba0ab07d0bc82de323eaa371b95b4fb6946.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/javax.inject-1_7cabe07cfd1c2b40677b26741c2d5850b325d1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.android/build-cache/a8ec745d33b2ee06d94dc8336bc9dd38cb45631c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_505c255efc0f979a3c021d751a698ba4c14d8a3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Projects/zolaya/source/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed80840d302bee1f5dd42cefa1fa8e6100100535">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/release/classes_5e23a74d043be28909af9d232e555017eb191d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luckycharm/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/Work/Projects/zolaya/source/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7cabe07cfd1c2b40677b26741c2d5850b325d1f5.jar" />
     </item>
 
 </items>

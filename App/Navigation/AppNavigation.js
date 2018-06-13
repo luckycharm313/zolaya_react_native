@@ -1,4 +1,5 @@
 import { StackNavigator } from 'react-navigation'
+import RedeemScreen from '../Containers/RedeemScreen'
 import MerchantDatailScreen from '../Containers/MerchantDatailScreen'
 import MerchantScreen from '../Containers/MerchantScreen'
 import CharityScreen from '../Containers/CharityScreen'
@@ -9,6 +10,7 @@ import styles from './Styles/NavigationStyles'
 
 // Manifest of possible screens
 const PrimaryNav = StackNavigator({
+  RedeemScreen: { screen: RedeemScreen },
   MerchantDatailScreen: { screen: MerchantDatailScreen },
   MerchantScreen: { screen: MerchantScreen },
   CharityScreen: { screen: CharityScreen },

@@ -74,42 +74,44 @@ class CharityScreen extends Component {
 
   render () {
     return (
-      <View style={styles.container}>
-        <View style = { styles.headerbar}>
-          <TouchableOpacity onPress = {this._goBack}>
-            <Icon name="arrow-back" style = {styles.search_back}/>
-          </TouchableOpacity>
-          <View style = { styles.searchBar}>
-            <Icon name="search" style = {styles.search_icon}/>
-            <TextInput
-                ref = {'search'}
-                name = {'search' }
-                type = {'TextInput'}
-                underlineColorAndroid = {'transparent'}
-                autoCapitalize = {'none'}
-                autoCorrect = {false}
-                placeholder = {'search communities...'}
-                placeholderTextColor = {Colors.textHintColor}
-                style = {styles.search_text }
-                returnKeyType = 'go'
-                selectionColor = {"#fff"}
-                onChangeText = {(searchKey) => { this.setState({searchText: searchKey})}}
-                onChange = {this._search}
-                maxLength = {100}/>
-              {this.state.isSearchCancel && 
-              <TouchableOpacity onPress = {this._cancel}>
-                <Icon name="close" style = {styles.close_icon}/>
-              </TouchableOpacity>}
-            
+      <View style={styles.mainContainer}>   
+        <View style={styles.container}>
+          <View style = { styles.headerbar}>
+            <TouchableOpacity onPress = {this._goBack}>
+              <Icon name="arrow-back" style = {styles.search_back}/>
+            </TouchableOpacity>
+            <View style = { styles.searchBar}>
+              <Icon name="search" style = {styles.search_icon}/>
+              <TextInput
+                  ref = {'search'}
+                  name = {'search' }
+                  type = {'TextInput'}
+                  underlineColorAndroid = {'transparent'}
+                  autoCapitalize = {'none'}
+                  autoCorrect = {false}
+                  placeholder = {'search communities...'}
+                  placeholderTextColor = {Colors.textHintColor}
+                  style = {styles.search_text }
+                  returnKeyType = 'go'
+                  selectionColor = {"#fff"}
+                  onChangeText = {(searchKey) => { this.setState({searchText: searchKey})}}
+                  onChange = {this._search}
+                  maxLength = {100}/>
+                {this.state.isSearchCancel && 
+                <TouchableOpacity onPress = {this._cancel}>
+                  <Icon name="close" style = {styles.close_icon}/>
+                </TouchableOpacity>}
+              
+            </View>
           </View>
-        </View>
-        <View style = { styles.body}>
-          <FlatList
-            data={this.state.data}
-            // extraData={this.state}
-            // keyExtractor={this._keyExtractor}
-            renderItem={this._renderItem}
-          />
+          <View style = { styles.body}>
+            <FlatList
+              data={this.state.data}
+              // extraData={this.state}
+              // keyExtractor={this._keyExtractor}
+              renderItem={this._renderItem}
+            />
+          </View>
         </View>
       </View>
     )
